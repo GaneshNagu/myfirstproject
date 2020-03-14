@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (
+  return   (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -18,9 +18,9 @@ function App() {
         >
           Learn React
         </a>
-      </header>
-    </div>
-  );
+      </header>   
+   </div>
+   );
 }
-
+//// React.createElement("div",{className:"App"},React.createElement("h1",null,"Greatest Developer in the World"),React.createElement("h1",{className:"borderclass"},"Prove them wrong"),React.createElement("h1",{className:"borderclass"},"I will become the top notch Developer"));
 export default App;

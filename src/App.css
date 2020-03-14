@@ -13,6 +13,14 @@
   }
 }
 
+.borderclass{
+  border: 1px solid #afafaf;
+  padding: 10px;
+  margin:auto;
+  width: 400px;
+  margin-top: 10px;
+  }
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
